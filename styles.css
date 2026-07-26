@@ -9,7 +9,7 @@
   --paper: #faf0f4;
   --paper-2: #fff8fb;
   --stone: #f2d9e4;
-  --oak: #c4a882;
+  --oak: #5c3d2e;
   --footer: #3d2434;
   --white: #ffffff;
   --shadow-btn: 0 1px 2px rgba(26, 24, 28, 0.06), 0 8px 20px rgba(26, 24, 28, 0.08);
@@ -233,7 +233,7 @@ a {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 48% 42%;
+  object-position: 55% 45%;
   transform: scale(1.05);
   animation: hero-drift 20s var(--ease-out) infinite alternate;
 }
@@ -333,7 +333,7 @@ a {
 
 @media (max-width: 720px) {
   .hero-photo {
-    object-position: 42% 38%;
+    object-position: 62% 40%;
   }
 
   .hero-wash {
@@ -489,6 +489,47 @@ a {
     border-right: 1px solid var(--line);
     padding-right: 2.5rem;
   }
+}
+
+.space-gallery {
+  margin: clamp(2rem, 5vw, 3.25rem) 0 0;
+  display: grid;
+  gap: 1.25rem;
+}
+
+.space-gallery + .space-gallery {
+  margin-top: clamp(1.25rem, 3vw, 1.75rem);
+}
+
+@media (min-width: 720px) {
+  .space-gallery {
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+  }
+
+  .space-gallery-cafe {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.space-shot {
+  margin: 0;
+}
+
+.space-shot img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  object-position: center;
+  border-radius: var(--radius);
+}
+
+.space-shot figcaption {
+  margin: 0.65rem 0 0;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--muted);
+  max-width: 32ch;
 }
 
 /* —— Menu —— */
@@ -1029,8 +1070,12 @@ a {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
-  margin: 0 0 2rem;
+  margin: 0 0 0.5rem;
   max-width: 32rem;
+}
+
+.location .space-gallery {
+  margin-bottom: 2rem;
 }
 
 @media (min-width: 640px) {
