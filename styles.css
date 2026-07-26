@@ -497,10 +497,18 @@ a {
   gap: 1.25rem;
 }
 
+.space-gallery + .space-gallery {
+  margin-top: clamp(1.25rem, 3vw, 1.75rem);
+}
+
 @media (min-width: 720px) {
   .space-gallery {
     grid-template-columns: 1fr 1fr;
     gap: 1.5rem;
+  }
+
+  .space-gallery-cafe {
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
