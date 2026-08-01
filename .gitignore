@@ -2,13 +2,3 @@
 *.log
 .env
 .env.*
-
-# Personal / investor docs — do not publish
-INVESTOR-TIMELINE.md
-*INVESTOR*
-*investor*
-*Pitch*
-*pitch*
-
-# Local pitch pack — never publish
-pitch/
