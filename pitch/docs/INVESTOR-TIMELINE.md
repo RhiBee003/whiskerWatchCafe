@@ -43,7 +43,7 @@ Investors who like lifestyle / F&B / community concepts can buy this. Investors 
 Use this sequence every time (Zoom or in-person). Don’t dump everything at once.
 
 ### 1. Hook (60–90 seconds) — mouth only, then one visual
-**Say:** “I’m opening a rescue-partnered cat lounge + specialty café at Jade in North Hyde Park — glass-front bar, sealed lounge, patio — and a weekly Girlz and Gears bike night to fill Wednesdays.”
+**Say:** “I’m opening a rescue-partnered cat lounge + specialty café at Jade in North Hyde Park — glass-front bar, sealed lounge, patio — **Caffe Vita** Seattle beans only at the bar because I grew up there and the coffee is that good — and a weekly Girlz and Gears bike night to fill Wednesdays.”
 
 **Show:** Live café site hero (or the portfolio café screenshot).  
 → https://rhibee003.github.io/whiskerWatchCafe/
@@ -68,7 +68,7 @@ Use this sequence every time (Zoom or in-person). Don’t dump everything at onc
 ### 4. How money comes in (2–3 minutes)
 **Show:** Pitch *Unit economics* (Y1 ramp + Y2 mix + ask)
 
-**Say:** Sessions (reservations) + café bar + merch/events. Wednesday bike night = midweek patio tabs + optional lounge blocks. Base case ~$433K Y1 / ~$532K Y2; EBITDA re-checked after rent quote.
+**Say:** Sessions (**$22 / guest**, weekday early from $20) + café bar (**Caffe Vita** · lattes/frappes · healthy sweets) + merch/events. Wednesday bike night = midweek patio tabs + optional lounge blocks. Base case ~$433K Y1 / ~$532K Y2; EBITDA re-checked after rent quote.
 
 ### 5. The ask + use of funds (2 minutes)
 **Show:** *$280K use of funds* table

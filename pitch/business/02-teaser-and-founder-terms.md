@@ -10,7 +10,7 @@
 
 ## Whisker Watch Café — Confidential Teaser
 
-**Whisker Watch Café** is a reservation-led rescue cat lounge and specialty café in Tampa’s urban core — espresso and light bites in a health-code-compliant dual-zone space, with adoptable cats in a separate lounge.
+**Whisker Watch Café** is a reservation-led rescue cat lounge and specialty café in Tampa’s urban core — espresso from **Caffe Vita** only (Seattle-roasted; founder grew up there; coffee stays true to those roots) and light bites in a health-code-compliant dual-zone space, with adoptable cats in a separate lounge.
 
 | | |
 |---|---|
@@ -22,7 +22,9 @@
 Tampa has strong visitor and pet-spend demand and limited cat-café supply. Whisker Watch pairs a proven dual-zone operating model (café bar separated from cat lounge) with a North Hyde Park–area mixed-use ground-floor concept — walkable to students, downtown, and daytime professional traffic.
 
 ### What we’re building
-- Timed lounge sessions + café attach revenue  
+- Timed lounge sessions (**$22 / guest**, weekday early from $20) + café attach revenue  
+- **Caffe Vita** only at the bar (Seattle-roasted · founder roots · serious coffee)  
+- **Healthy sweet snacks** as a signature (no-sugar banana PB protein cookie ~$5 and more)  
 - Rescue partnership (adoption-first; café is display/foster site)  
 - Target colony: **10–12 cats** on the floor + quarantine capacity  
 - **Wednesday Girls Bike Nights** with **Girlz and Gears** (patio hang after the ride)  

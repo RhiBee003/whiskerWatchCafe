@@ -12,7 +12,7 @@ I’m raising a **$280K seed** to open **Whisker Watch Café** at **Jade in Nort
 Why this one’s specific (not “Tampa TBD”):
 
 - **Site:** Suite 2 · 1,666 SF + 895 SF patio · 608 N Willow Ave · under 192 apartments  
-- **Ops model:** reservation lounge + specialty bar; packaged snacks allowed in lounge; cats never in prep  
+- **Ops model:** reservation lounge + specialty bar on **Caffe Vita** only (Seattle-roasted; founder grew up there); packaged snacks allowed in lounge; cats never in prep  
 - **Brand:** live site + WhiskerWatch app already in market  
 
 Live site: https://rhibee003.github.io/whiskerWatchCafe/

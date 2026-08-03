@@ -17,6 +17,8 @@
 | Colony | **10–12 cats** on floor + **2** quarantine |
 | Cat care / month | **~$2,100–2,400** café-paid |
 | Community night | **Wednesdays · Girlz and Gears Girls Bike Night** |
+| Lounge ticket | **$22 / guest** (50 min; weekday early from $20) |
+| Coffee partner | **Caffe Vita** (Seattle-roasted only) |
 | Y1 revenue (ramp) | ~$433K |
 | Y2 revenue (base) | ~$532K |
 | Y2 EBITDA (base) | ~$85K (~16%) — re-check after rent quote |
@@ -27,6 +29,8 @@
 ## Investment thesis
 
 Tampa has ~28M Hillsborough visitors ($6B direct spend / $9.5B impact in 2025), metro median HH income ~$79K, and limited cat-café supply (peer: Cats & Caffeine on Henderson Blvd). Cat ownership is rising nationally (39% of U.S. households). Whisker Watch is a reservation-led rescue lounge + specialty café using a Florida DBPR-compliant dual-zone layout.
+
+**Coffee:** <strong>Caffe Vita</strong> only — Seattle-roasted beans. Founder grew up there and the coffee is the point of staying true to those roots. Vita has nationwide wholesale hubs (Seattle · Brooklyn · Phoenix), so Tampa supply + barista support is realistic. Differentiates the bar from generic Tampa espresso while keeping the menu lean (espresso + packaged / off-site bites).
 
 **Founder favorite site: Jade** — mixed-use ground-floor restaurant/retail + patio in North Hyde Park (Willow & Cass), near University of Tampa, downtown, Riverwalk, and TGH daytime traffic.
 
@@ -84,13 +88,49 @@ Florida Food Code does **not** allow cats in food prep. Model (same idea as Cats
 
 | Zone | Rule | Jade application |
 |---|---|---|
-| Café bar | No animals | Street-front espresso / POS |
+| Café bar | No animals | Street-front espresso / POS · **Caffe Vita** (Seattle) only |
 | Cat lounge | Separate room | Majority of SF behind glass |
 | BOH | Quarantine / litter | Back suite |
 | Patio | Not free-roam cats | Human overflow only |
 | Approvals | Required | Landlord animal consent + DBPR plan review |
 
-Menu path of least resistance: **espresso + packaged / off-site bites**.
+Menu path of least resistance: **Caffe Vita espresso (Seattle) + lattes / frappes + healthy sweet snacks (e.g. no-sugar banana PB protein cookie) + packaged / off-site bites**.
+
+---
+
+## Guest pricing (aligned with live site)
+
+Benchmarked to Tampa specialty coffee + Starbucks street prices, and peer lounge **Cats & Caffeine (~$22 / hr)**.
+
+### Cat lounge
+| Ticket | Price |
+|---|---:|
+| Standard session (50 min) | **$22 / guest** |
+| Weekday early (before noon) | **From $20 / guest** |
+| Cap | 12–15 guests / session |
+
+### Café bar — drinks
+| Item | Price |
+|---|---:|
+| Whisker Watch Latte (oat · rose) | $5.95 |
+| Caramel Latte | $6.25 |
+| Cortado | $4.50 |
+| Coffee Frappe | $6.50 |
+| Caramel Frappe | $6.95 |
+| Matcha | $5.95 |
+| Cold brew | $5.25 |
+| Chamomile | $4.25 |
+
+### Café bar — bites (healthy sweets + packaged)
+| Item | Price |
+|---|---:|
+| Banana PB Protein Cookie (no sugar) | $5.00 |
+| Strawberry jar | $6.75 |
+| Healthy Chocolate Croissant | $5.50 |
+| Banana bread | $4.25 |
+| Cheese & fruit (for two) | $15 |
+
+**Attach assumption:** ~$8–12 F&B per lounge guest is the planning range (drink + snack). Menu lives on the marketing site and should stay in sync with this table.
 
 ---
 
@@ -130,7 +170,7 @@ Menu path of least resistance: **espresso + packaged / off-site bites**.
 
 ## Unit economics (base case)
 
-**Y2 revenue mix (of ~$532K):** Lounge admission ~52% · F&B ~34% · Events/memberships ~10% · Merch/adoptions ~4%
+**Y2 revenue mix (of ~$532K):** Lounge admission ~52% · F&B ~34% · Events/memberships ~10% · Merch/adoptions ~4%. Planning tickets: **$22** lounge + **~$8–12** F&B attach per guest.
 
 Re-run margins after Jade rent quote (South Tampa / urban mixed-use often higher $/SF than Seminole Heights).
 
