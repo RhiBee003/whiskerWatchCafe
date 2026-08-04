@@ -1,4 +1,6 @@
-# Email · ACRE — Park Place Seminole (follow-up / Sammy + Willow)
+# Email · ACRE — Park Place Seminole (TERTIARY BACKUP ONLY)
+
+**Priority:** Rome Collective is first pick. Use this only if NoHo / SoHo / Heights fail.
 
 **To:** sammy@acrefl.com, willow@acrefl.com  
 **Cc:** sandi@acrefl.com  

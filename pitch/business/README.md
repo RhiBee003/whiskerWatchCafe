@@ -9,21 +9,22 @@ Repo path: `pitch/business/` · also mirrored on Desktop pitch packs when synced
 
 | File / folder | What it is |
 |---|---|
-| `01-investor-pitch.md` | Full investor pitch — **Park Place diligence** (Jade closed) |
+| `01-investor-pitch.md` | Full investor pitch — **Rome Collective first pick** (Jade closed) |
 | `02-teaser-and-founder-terms.md` | Safe 1-page teaser + founder-control term sheet |
 | `03-protection-plan.md` | Keep the idea/business yours before outreach |
 | `04-girlz-and-gears-partnership.md` | Wednesday Girls Bike Night partnership plan |
 | `../jade-3d/` | Interactive layout 3D — **archive** (Jade study only) |
 | `../docs/INVESTOR-TIMELINE.md` | Personal show-order + milestones |
-| `../emails/` | Outreach drafts (ACRE reply, Park Place, rescues, etc.) |
+| `../emails/` | Outreach drafts (Rome first, Colliers, rescues, etc.) |
 
 ---
 
 ## Site status (Aug 4, 2026)
 
+- **Rome Collective · 202 N Rome** — **FIRST PICK** · [LoopNet](https://www.loopnet.com/Listing/202-N-Rome-Ave-Tampa-FL/30610218/)  
 - **Jade / North Hyde Park** — ACRE cannot accommodate  
-- **Park Place, Seminole** — active diligence · https://www.acrefl.com/park-place  
-- Hold investor soft-circle until suite / rent / animals / patio are rough-in  
+- **Park Place, Seminole** — tertiary backup only  
+- Hold investor soft-circle until Rome suite / rent / animals / patio are rough-in  
 
 ---
 

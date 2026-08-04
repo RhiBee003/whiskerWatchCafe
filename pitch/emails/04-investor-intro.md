@@ -1,41 +1,23 @@
-# Email · Investor intro (soft circle)
+# Email · Investors — soft intro
 
-**HOLD until Park Place suite + rent ballpark exist.** Jade / North Hyde Park closed Aug 4 (ACRE cannot accommodate).
+**HOLD until Rome Collective suite + rent + animals rough-in.** Jade closed Aug 4. Park Place is backup only.
 
-**To:** [INVESTOR NAME] \<[EMAIL]\>  
-**Subject:** Whisker Watch Café — Tampa Bay site diligence (quick intro)
+**To:** [INVESTOR NAME] \<email\>  
+**Subject:** Whisker Watch Café — North Hyde Park diligence (quick intro)
 
 ---
 
 Hi [NAME],
 
-I’m raising a **$280K seed** to open **Whisker Watch Café** in the Tampa Bay area — a rescue-partnered cat lounge + specialty café with a Florida DBPR dual-zone plan (café bar | sealed lounge | patio) and a weekly **Girlz and Gears** bike night for midweek traffic.
+I’m Rhiannon, founder of **Whisker Watch Café** — a rescue-partnered cat lounge + specialty café (Florida DBPR dual-zone: sealed lounge, cats never in food prep). Espresso from **Caffe Vita**; weekly **Girlz and Gears** bike night on the patio.
 
-**Site note:** Our first-choice **Jade / North Hyde Park** suite isn’t available for this use. We’re in active diligence with **ACRE on Park Place (Seminole)** for suite fit, rent, and animal policy — happy to walk the concept and use of funds while that locks.
+**Site note:** Jade / North Hyde Park couldn’t accommodate this use. **First-choice diligence is now Rome Collective (202 N Rome)** for suite fit, rent, and animal policy — happy to walk the concept and use of funds while that locks.
 
-Why the concept is specific:
+Raise: **~$280K** seed. Concept: https://rhibee003.github.io/whiskerWatchCafe/
 
-- **Ops model:** reservation lounge + specialty bar on **Caffe Vita** only (Seattle-roasted; founder grew up there); packaged snacks allowed in lounge; cats never in prep  
-- **Brand:** live site + WhiskerWatch app already in market  
-- **Community:** Girlz and Gears Wednesday bike night  
+Would you be open to a short call once I have rent + animal clarity?
 
-Live site: https://rhibee003.github.io/whiskerWatchCafe/
-
-Would you have **20 minutes** in the next two weeks for a walkthrough? I can show the dual-zone plan, unit economics, and use of funds — and I’m upfront that suite / rent / landlord animal consent are the open diligence items.
-
-Thanks for taking a look,  
-Rhiannon  
+Thank you,  
+Rhiannon Black  
 [YOUR PHONE]  
 [YOUR EMAIL]
-
----
-
-## Attach / follow with (don’t dump all at once)
-1. Live site link (in email)  
-2. On the call: maps + floor schematic + use-of-funds  
-3. Only if they ask: full pitch leave-behind  
-
-## After you send
-- [ ] Log send date + response  
-- [ ] Check Life → Café → **Email investors**  
-- [ ] When a meeting is booked → **Next meeting**

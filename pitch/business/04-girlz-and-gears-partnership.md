@@ -2,7 +2,7 @@
 ## Wednesday Girls Bike Night partnership
 
 **Confidential · Community program plan**  
-**Last updated:** August 4, 2026 — site path moved off Jade; confirm meet point once suite locks
+**Last updated:** August 4, 2026 — first pick **Rome Collective**; confirm meet once suite locks
 
 ---
 
@@ -11,7 +11,7 @@ Every **Wednesday evening**, Whisker Watch Café partners with **Girlz and Gears
 
 **Brand fit:** community, confidence, women/girls-first spaces — bikes outside, cats inside.
 
-**Site note:** Jade / North Hyde Park is closed. Active diligence is **Park Place, Seminole**. Do not market a specific meet address until outdoor rights + suite are confirmed. If Pinellas is too far for the current rider base, redesign the route or keep searching a Tampa-side site.
+**Site note:** Jade closed. **First-choice diligence: Rome Collective (North Hyde Park)** — better Tampa-side meet for Girlz and Gears than Pinellas strip. Do not market a specific address until outdoor rights + suite are confirmed.
 
 ---
 
@@ -34,7 +34,7 @@ Adjust times seasonally (Florida heat / daylight).
 - Lounge visits = normal reservation rules; wipe hands before/after  
 - Keep patio volume friendly for neighbors  
 
-**Patio / outdoor seating is a partnership dependency** — confirm at Park Place (or next site) before locking public Wednesdays.
+**Patio / outdoor seating is a partnership dependency** — confirm at Rome Collective (or next site) before locking public Wednesdays.
 
 ---
 

@@ -9,11 +9,11 @@
 | Metric | Value |
 |---|---|
 | Seed raise | **~$280,000** |
-| Site status | **Pivot Aug 4, 2026** — Jade / North Hyde Park **declined** by ACRE |
-| Active diligence | **Park Place, Seminole** · 7562–7600 Starkey Rd |
-| Listing | https://www.acrefl.com/park-place |
-| Target SF | **~1,500–2,500 SF** (confirm suite with Sammy / Willow) |
-| Available range | 1,065–5,414 SF at Park Place |
+| Site status | **First pick Aug 4, 2026** — **Rome Collective**, North Hyde Park |
+| Active diligence | **Rome Collective** · 202 N Rome Ave · Colliers |
+| Listing | https://www.loopnet.com/Listing/202-N-Rome-Ave-Tampa-FL/30610218/ |
+| Target SF | **~1,500–2,500 SF** (confirm bay with Erica Waltermire) |
+| Broker | erica.waltermire@colliers.com · Cc jaclyn.langholz@colliers.com |
 | Colony | **10–12 cats** on floor + **2** quarantine |
 | Cat care / month | **~$2,100–2,400** café-paid |
 | Community night | **Wednesdays · Girlz and Gears Girls Bike Night** |
@@ -21,7 +21,7 @@
 | Coffee partner | **Caffe Vita** (Seattle-roasted only) |
 | Y1 revenue (ramp) | ~$433K |
 | Y2 revenue (base) | ~$532K |
-| Y2 EBITDA (base) | ~$85K (~16%) — **re-check after Park Place rent quote** |
+| Y2 EBITDA (base) | ~$85K (~16%) — **re-check after Rome rent quote** |
 | Break-even | ~month 14 |
 
 ---
@@ -32,7 +32,7 @@ Tampa Bay has strong visitor and pet-spend demand, metro median HH income ~$79K,
 
 **Coffee:** **Caffe Vita** only — Seattle-roasted beans. Founder grew up there and the coffee is the point of staying true to those roots. Vita has nationwide wholesale hubs (Seattle · Brooklyn · Phoenix), so Bay Area supply + barista support is realistic. Differentiates the bar from generic espresso while keeping the menu lean (espresso + packaged / off-site bites).
 
-**Site path:** First-choice **Jade / North Hyde Park** — ACRE cannot accommodate this use (Aug 4, 2026). Active diligence on **Park Place, Seminole** (high-traffic Park Blvd & Starkey corridor; strong nearby incomes) with **Sammy Gabbai** + **Willow Ferrelli**. Do **not** pitch Jade SF/address as locked. Keep eyes open for a stronger lifestyle site if Park Place fails animal policy, patio, or rent.
+**Site path:** Jade / North Hyde Park — ACRE cannot accommodate (Aug 4, 2026). **First-choice diligence: Rome Collective (202 N Rome Ave)** — walkable NoHo, same corridor as the original Hyde Park story — with **Erica Waltermire (Colliers)**. Alternates: Grand Central, NoHo Flats, SoHo, Seminole Heights. **Park Place, Seminole** is tertiary backup only. Do **not** pitch Jade as available.
 
 **Community partnership:** Weekly **Wednesday Girls Bike Nights** with **Girlz and Gears** — ride meet → patio hang → optional lounge add-on. Bikes stay outside; cats stay in the lounge. Confirm route fit once suite is locked (Pinellas vs Tampa-centric riders).
 
@@ -52,43 +52,37 @@ Full program detail: see `04-girlz-and-gears-partnership.md`.
 
 ---
 
-## Active site: Park Place, Seminole
+## Active site: Rome Collective, North Hyde Park
 
 ### Specs (listing)
-- Address: **7562–7600 Starkey Rd, Seminole, FL 33777**
-- Product: Newly renovated retail center · Circle K open · pylon signage
-- Traffic: ~**80,000** cars/day (Park Blvd ~53k · Starkey ~28.5k)
-- Demographics (listing): ~$126k avg HH income within 1 mile · ~251k people within 5 miles
-- Suites: **1,065 · 1,592 · 2,188 · 2,268 / 3,146 (divisible) · 5,414 SF**
+- Address: **202 N Rome Ave, Tampa, FL 33606** (Rome Collective)
+- Product: New / mixed retail in walkable North Hyde Park
+- Target: **~1,500–2,500 SF** (or smart split of listed range)
 - Asking rent: **Not published — quote required**
 
-### Leasing contacts (ACRE Commercial)
-- **Sammy Gabbai**, Transaction Associate — sammy@acrefl.com · 813-461-6106  
-- **Willow Ferrelli**, Senior Vice President — willow@acrefl.com · 813-939-7732  
-- **Sandi Bargfrede**, Managing Partner — sandi@acrefl.com · 407-491-8149  
+### Leasing contact (Colliers)
+- **Erica Waltermire** — erica.waltermire@colliers.com  
+- **Jaclyn Langholz** — jaclyn.langholz@colliers.com (NoHo Flats / nearby; Cc)
 
 ### Links
-- Listing: https://www.acrefl.com/park-place  
-- Maps: search 7562 Starkey Rd, Seminole, FL 33777  
+- LoopNet: https://www.loopnet.com/Listing/202-N-Rome-Ave-Tampa-FL/30610218/  
 - Live café site: https://rhibee003.github.io/whiskerWatchCafe/
 
-### Why consider Park Place
-- High visibility / drive-to demand  
-- Strong nearby household incomes  
-- Suite sizes in dual-zone range (prefer ~1.5–2.5k SF)  
-- Possible cleaner animal-use path than “under apartments” (confirm in writing)  
-- Pinellas thinner on cat-café competition than South Tampa  
-
-### Brand / ops caveats
-- Strip-retail corridor, not Hyde Park walkable lifestyle  
-- Outdoor / patio rights must be confirmed (bike night + hang depend on it)  
-- Girlz and Gears midweek distance may need route redesign  
+### Why Rome Collective (first pick)
+- Same walkable North Hyde Park story as the original Jade target  
+- Lifestyle / residential + student adjacency vs highway strip  
+- Dual-zone SF range available across listed bays  
+- Strong brand fit for Vita bar + rescue lounge + bike-night patio  
 
 ### Gate before LOI
 - Written **landlord consent** for live-animal sealed lounge  
-- Soft **rent + NNN/CAM** quote + recommended suite  
+- Soft **rent + NNN/CAM** quote + recommended bay  
 - Outdoor seating / patio confirmation  
 - **DBPR plan review** on dual-zone layout  
+
+### Alternates (if Rome fails animals / rent / SF)
+- 504 W Grand Central · NoHo Flats Ph. II · 204 S Howard (SoHo) · 3701 N Central (Heights)  
+- **Park Place, Seminole** — tertiary backup only (ACRE Sammy / Willow)  
 
 ### Closed path (archive)
 **Jade · 608 N Willow Ave, Suite 2** — ACRE (Sandi): cannot accommodate. Do not pitch as available. Old 3D study kept under `pitch/jade-3d/` as concept archive only.
@@ -185,7 +179,7 @@ Benchmarked to Tampa specialty coffee + Starbucks street prices, and peer lounge
 
 **Y2 revenue mix (of ~$532K):** Lounge admission ~52% · F&B ~34% · Events/memberships ~10% · Merch/adoptions ~4%. Planning tickets: **$22** lounge + **~$8–12** F&B attach per guest.
 
-Re-run margins after **Park Place rent + NNN** quote (suburban retail $/SF may differ from Hyde Park mixed-use).
+Re-run margins after **Rome Collective rent + NNN** quote (NoHo mixed-use $/SF may differ from strip retail).
 
 ---
 
@@ -220,7 +214,7 @@ Re-run margins after **Park Place rent + NNN** quote (suburban retail $/SF may d
 
 ## The ask
 
-Raise **$280,000** to open Whisker Watch Café in the **Tampa Bay area** — dual-zone rescue lounge + **Caffe Vita** specialty bar. Capital funds health-code-compliant finish-out, runway, colony setup, and launch. **Active site diligence: Park Place, Seminole** (Jade path closed).
+Raise **$280,000** to open Whisker Watch Café in the **Tampa Bay area** — dual-zone rescue lounge + **Caffe Vita** specialty bar. Capital funds health-code-compliant finish-out, runway, colony setup, and launch. **First-choice site diligence: Rome Collective, North Hyde Park** (Jade path closed; Park Place backup only).
 
 **Illustrative raise structure:** minority equity (~20–35%); founder remains Managing Member and majority owner. See `02-teaser-and-founder-terms.md`.
 

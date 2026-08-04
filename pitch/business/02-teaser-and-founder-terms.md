@@ -17,10 +17,10 @@
 | Seed raise target | **~$280,000** |
 | First unit | 1 café (Tampa Bay) |
 | Model | Founder-led operator |
-| Site status | Diligence on **Park Place, Seminole** (first-choice Hyde Park suite unavailable) |
+| Site status | Diligence on **Rome Collective, North Hyde Park** (Jade unavailable; Park Place backup only) |
 
 ### The opportunity
-Tampa Bay has strong visitor and pet-spend demand and limited cat-café supply. Whisker Watch pairs a proven dual-zone operating model (café bar separated from cat lounge) with an active site search — currently under diligence at **Park Place, Seminole** (high-visibility retail; strong nearby incomes) after North Hyde Park could not accommodate the animal lounge use.
+Tampa Bay has strong visitor and pet-spend demand and limited cat-café supply. Whisker Watch pairs a proven dual-zone operating model (café bar separated from cat lounge) with first-choice diligence at **Rome Collective, North Hyde Park** — walkable NoHo after Jade could not accommodate the animal lounge use.
 
 ### What we’re building
 - Timed lounge sessions (**$22 / guest**, weekday early from $20) + café attach revenue  

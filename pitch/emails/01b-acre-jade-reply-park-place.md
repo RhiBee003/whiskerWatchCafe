@@ -1,27 +1,18 @@
-# Reply · ACRE — Jade declined → Park Place Seminole
+# Reply · ACRE — Jade declined → soft close (Rome first)
 
-**Status:** Jade Suite 2 / North Hyde Park — **cannot accommodate** (Sandi Bargfrede, Aug 4, 2026).  
-**Pivot:** Park Place Retail · 7562–7600 Starkey Rd, Seminole, FL 33777 · https://www.acrefl.com/park-place
+**Status:** Jade closed. **First pick is now Rome Collective (Colliers / NoHo)** — not Park Place.  
+**Use this** if you still need to reply-all on Sandi’s thread without locking yourself into Seminole strip.
 
-**Reply-all To:** Sandi + thread (Willow Ferrelli, Sammy Gabbai, you)  
-**Subject:** Re: (keep their thread subject) — or: Thanks — interested in Park Place Seminole
+**To:** Reply-all on Sandi’s thread  
+**Subject:** Re: (keep their thread) — thanks; pursuing North Hyde Park first
 
 ---
 
 Hi Sandi,
 
-Thank you for the clear answer on Jade — I appreciate you being direct.
+Thank you for the clear answer on Jade — I appreciate you being direct, and for flagging Park Place.
 
-Park Place in Seminole looks like a strong alternate. I’ve opened the marketing materials and I’m interested in learning more.
-
-Sammy and Willow — whenever you have a few minutes, I’d love:
-
-1. Which suites you’d recommend for a **dual-zone specialty café + sealed cat lounge** (roughly **1,500–2,500 SF**, or whatever you think fits best among the available bays)
-2. **Asking rent** ($/SF + NNN) and **availability / delivery timing**
-3. Whether the landlord will consider **live animals in a sealed lounge** for a rescue-partnered concept (Florida DBPR dual-zone — cats never enter food prep)
-4. A short **call or walkthrough** when you’re free
-
-Concept site for context: https://rhibee003.github.io/whiskerWatchCafe/
+I’m prioritizing a **North Hyde Park / walkable** suite that matches the brand (currently diligence on **Rome Collective**). If that path doesn’t work on rent or animal policy, I’d love to reconnect on Park Place with Sammy and Willow.
 
 Thanks again for keeping me in the mix,
 
@@ -32,8 +23,7 @@ https://rhibee003.github.io/whiskerWatchCafe/
 
 ---
 
-## After you send
-- [ ] Check Life → Café → **Email ACRE / Jade** (done) + **Park Place / Sammy follow-up**
-- [ ] Save Sandi’s Jade “no” + this reply in Pitch folder
-- [ ] **Do not** send Mission Rock (Jade animal consent) — site path moved off Jade
-- [ ] Review Park Place package: suite sizes, rent, animal policy before investor intros
+## Notes
+- Do **not** send Mission Rock (Jade-specific)
+- Park Place (`06-park-place-seminole.md`) = tertiary backup only
+- First pick draft: `07-rome-collective.md`

@@ -54,7 +54,7 @@ Florida small-business attorney:
 1. LLC + OA + EIN  
 2. Trademark search if name is final  
 3. One-pager teaser  
-4. Soft ACRE ask: suite + rent + animal lounge allowed? (Park Place path — no full pitch blast)  
+4. Soft Colliers ask: Rome Collective suite + rent + animal lounge allowed? (no full pitch blast)  
 5. Rescue exploratory call  
 6. Full pitch to vetted investors only (after site rough-in)  
 
