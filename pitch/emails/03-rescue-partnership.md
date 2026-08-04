@@ -1,13 +1,13 @@
 # Email · Tampa rescue partnership (template)
 
 **To:** [RESCUE CONTACT EMAIL]  
-**Subject:** Partnership inquiry — Whisker Watch Café (North Hyde Park) foster & display lounge
+**Subject:** Partnership inquiry — Whisker Watch Café (Tampa Bay) foster & display lounge
 
 ---
 
 Hi [NAME / Rescue Team],
 
-I’m Rhiannon, founder of **Whisker Watch Café** — a planned rescue-partnered cat lounge and specialty café at **Jade in North Hyde Park** (608 N Willow Ave). Guests reserve timed lounge sessions with adoptable cats; the café bar stays humans-only for Florida health-code compliance.
+I’m Rhiannon, founder of **Whisker Watch Café** — a planned rescue-partnered cat lounge and specialty café in the **Tampa Bay area** (site diligence in progress). Guests reserve timed lounge sessions with adoptable cats; the café bar stays humans-only for Florida health-code compliance.
 
 I’m looking for a **primary rescue partner** for a foster/display model:
 

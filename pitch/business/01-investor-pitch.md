@@ -8,12 +8,11 @@
 | Metric | Value |
 |---|---|
 | Seed raise | **~$280,000** |
-| Favorite site | **Jade at North Hyde Park** |
-| Address | 608 N Willow Ave, Tampa, FL 33606 |
-| Interior | **1,666 SF** ground-floor Suite 2 |
-| Patio | **895 SF** outdoor (humans only) |
-| Above | 192 luxury apartments |
-| Parking | 42 dedicated retail garage stalls |
+| Site status | **Pivot Aug 4, 2026** — Jade declined by ACRE |
+| Active diligence | **Park Place, Seminole** · 7562–7600 Starkey Rd |
+| Listing | https://www.acrefl.com/park-place |
+| Target SF | **~1,500–2,500 SF** (confirm suite with Sammy/Willow) |
+| Available range | 1,065–5,414 SF at Park Place |
 | Colony | **10–12 cats** on floor + **2** quarantine |
 | Cat care / month | **~$2,100–2,400** café-paid |
 | Community night | **Wednesdays · Girlz and Gears Girls Bike Night** |
@@ -32,7 +31,7 @@ Tampa has ~28M Hillsborough visitors ($6B direct spend / $9.5B impact in 2025), 
 
 **Coffee:** <strong>Caffe Vita</strong> only — Seattle-roasted beans. Founder grew up there and the coffee is the point of staying true to those roots. Vita has nationwide wholesale hubs (Seattle · Brooklyn · Phoenix), so Tampa supply + barista support is realistic. Differentiates the bar from generic Tampa espresso while keeping the menu lean (espresso + packaged / off-site bites).
 
-**Founder favorite site: Jade** — mixed-use ground-floor restaurant/retail + patio in North Hyde Park (Willow & Cass), near University of Tampa, downtown, Riverwalk, and TGH daytime traffic.
+**Site path:** First-choice **Jade / North Hyde Park** — ACRE cannot accommodate (Aug 4, 2026). Active diligence on **Park Place, Seminole** with Sammy Gabbai + Willow Ferrelli (suite fit, rent, animal policy). Do not pitch Jade SF/address as locked.
 
 **Community partnership:** Weekly **Wednesday Girls Bike Nights** with **Girlz and Gears** — ride meet → patio hang at Whisker Watch → optional lounge add-on. Bikes stay outside; cats stay in the lounge.
 

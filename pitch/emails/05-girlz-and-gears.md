@@ -1,13 +1,13 @@
 # Email · Girlz and Gears — Wednesday bike night partnership
 
 **To:** [FIND CURRENT CONTACT — Instagram DM / website form / mutual intro]  
-**Subject:** Partnership idea — Wednesday Girls Bike Night at Whisker Watch Café (Jade)
+**Subject:** Partnership idea — Wednesday Girls Bike Night at Whisker Watch Café
 
 ---
 
 Hi [NAME / Team],
 
-I’m Rhiannon — opening **Whisker Watch Café** at **Jade in North Hyde Park** (Willow & Cass), with a street patio built for Tampa evenings. I’d love to partner with **Girlz and Gears** on a recurring **Wednesday Girls Bike Night**: ride meet → patio hang → optional lounge session for anyone who wants cats after.
+I’m Rhiannon — opening **Whisker Watch Café** in the Tampa Bay area, with a patio built for evening hangs. I’d love to partner with **Girlz and Gears** on a recurring **Wednesday Girls Bike Night**: ride meet → patio hang → optional lounge session for anyone who wants cats after.
 
 What I’m offering:
 

@@ -1,5 +1,12 @@
 # Email · Mission Rock Residential — live animal use at Jade
 
+**Status (Aug 4, 2026):** **CANCEL — do not send.**  
+Jade / North Hyde Park is **not available** for this use (ACRE · Sandi). Animal-consent ask moves with the new site (**Park Place, Seminole** — ask Sammy/Willow/landlord on that property).
+
+Kept for archive only.
+
+---
+
 **To:** fmonsivais@missionrockres.com  
 **Cc:** ashley.logan@missionrockres.com (optional)  
 **Subject:** Jade (608 N Willow) — written confirmation request: sealed cat lounge under residences
@@ -20,12 +27,3 @@ Thank you for your time,
 Rhiannon Black  
 [YOUR PHONE]  
 [YOUR EMAIL]
-
----
-
-## Why this email matters
-Investor timeline flags **landlord animal consent** as a highest kill-risk item. Get it in writing before soft-circle closes.
-
-## After you send
-- [ ] File written reply with Pitch docs  
-- [ ] Check Life → Café → **Email Mission Rock**

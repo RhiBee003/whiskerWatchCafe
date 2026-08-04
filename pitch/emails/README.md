@@ -4,14 +4,17 @@ Ready-to-send drafts for Whisker Watch Café. Fill bracketed fields, attach the 
 
 | File | To | Purpose | Life task |
 |------|----|---------|-----------|
-| `01-acre-jade-retail.md` | ACRE (Sandi / Jamie) | Suite 2 rent, tour, TI, animal use | Email ACRE / Jade retail |
-| `02-mission-rock-animal-consent.md` | Mission Rock (Jade PM) | Written live-animal consent under apartments | Email Mission Rock |
-| `03-rescue-partnership.md` | Tampa rescues | Foster/display MOU conversation | Email rescues |
-| `04-investor-intro.md` | Warm investors | Soft intro + meeting ask | Email investors |
-| `05-girlz-and-gears.md` | Girlz and Gears | Wednesday bike night partnership | Email Girlz and Gears |
+| `01-acre-jade-retail.md` | ACRE (Sandi / Jamie) | **SENT** · Jade Suite 2 inquiry | Email ACRE / Jade retail |
+| `01b-acre-jade-reply-park-place.md` | Reply-all on Sandi’s thread | **SEND TODAY** · thank Jade no · ask Park Place details | Reply ACRE + Park Place |
+| `06-park-place-seminole.md` | Sammy / Willow (+ Sandi Cc) | Park Place suite / rent / animals (if not covered in reply-all) | Park Place follow-up |
+| `02-mission-rock-animal-consent.md` | Mission Rock | **CANCEL** — Jade path closed | ~~Email Mission Rock~~ |
+| `03-rescue-partnership.md` | Tampa Bay rescues | Foster/display MOU (site-agnostic OK) | Email rescues |
+| `04-investor-intro.md` | Warm investors | Soft intro — **hold** until Park Place suite + rent rough-in | Email investors |
+| `05-girlz-and-gears.md` | Girlz and Gears | Bike night — soften “Jade” until site locked | Email Girlz and Gears |
 
 **Live site:** https://rhibee003.github.io/whiskerWatchCafe/  
-**Jade:** 608 N Willow Ave, Tampa FL 33606 · Suite 2 · 1,666 SF + 895 SF patio  
+**Park Place (active):** 7562–7600 Starkey Rd, Seminole, FL 33777 · https://www.acrefl.com/park-place · 1,065–5,414 SF  
+**Jade (closed):** 608 N Willow Ave — ACRE cannot accommodate cat lounge use (Aug 4, 2026)  
 **Ask (seed):** $280K  
 
 Do not paste personal investor docs into public GitHub. Keep sends from your personal email.

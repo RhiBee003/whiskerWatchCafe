@@ -1,10 +1,21 @@
 # Whisker Watch Café — Personal Investor Timeline
 
 **For:** Rhiannon · private playbook (not an investor leave-behind)  
-**Raise:** $280K seed · Jade Suite 2 · North Hyde Park, Tampa  
-**Last updated:** July 28, 2026
+**Raise:** $280K seed · **site pivot Aug 4, 2026** — Jade / North Hyde Park **declined** by ACRE; active diligence on **Park Place, Seminole** (7562–7600 Starkey Rd)  
+**Last updated:** August 4, 2026
 
 ---
+
+## Site status (read first)
+
+| Item | Status |
+| --- | --- |
+| Jade Suite 2 · 608 N Willow | **Closed** — Sandi Bargfrede (ACRE): cannot accommodate |
+| Park Place · Seminole | **Active** — https://www.acrefl.com/park-place · Sammy Gabbai + Willow Ferrelli |
+| Mission Rock animal email | **Cancel** — was Jade-specific |
+| Next action | Reply-all on Sandi’s thread · get suite / rent / animal policy |
+
+Do **not** pitch Jade address/SF to investors until/unless something changes in writing.
 
 ## Is it a good sell?
 

@@ -1,7 +1,9 @@
 # Email · ACRE Commercial — Jade Suite 2 retail inquiry
 
+**Status (Aug 4, 2026):** **SENT.** Sandi Bargfrede: Jade **cannot accommodate**. Offered **Park Place, Seminole**.  
+**Next:** Reply on that thread — see `01b-acre-jade-reply-park-place.md` · then `06-park-place-seminole.md` if needed.
+
 **To:** sandi@acrefl.com, jamie@acrefl.com  
-**Cc:** (optional) your email only  
 **Subject:** Jade at North Hyde Park — Suite 2 retail inquiry (cat lounge + specialty café)
 
 ---
@@ -26,10 +28,3 @@ Rhiannon Black
 [YOUR PHONE]  
 [YOUR EMAIL]  
 https://rhibee003.github.io/whiskerWatchCafe/
-
----
-
-## After you send
-- [ ] Save their reply PDF / email thread in Pitch folder  
-- [ ] Log rent quote in investor materials  
-- [ ] Check Life → Café → **Email ACRE / Jade retail**
