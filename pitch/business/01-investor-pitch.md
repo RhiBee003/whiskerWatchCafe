@@ -1,5 +1,6 @@
 # Whisker Watch Café — Investor Pitch
-**Confidential · Tampa, FL · 2026 · Independent · Rescue-partnered**
+**Confidential · Tampa Bay, FL · 2026 · Independent · Rescue-partnered**  
+**Last updated:** August 4, 2026
 
 ---
 
@@ -8,10 +9,10 @@
 | Metric | Value |
 |---|---|
 | Seed raise | **~$280,000** |
-| Site status | **Pivot Aug 4, 2026** — Jade declined by ACRE |
+| Site status | **Pivot Aug 4, 2026** — Jade / North Hyde Park **declined** by ACRE |
 | Active diligence | **Park Place, Seminole** · 7562–7600 Starkey Rd |
 | Listing | https://www.acrefl.com/park-place |
-| Target SF | **~1,500–2,500 SF** (confirm suite with Sammy/Willow) |
+| Target SF | **~1,500–2,500 SF** (confirm suite with Sammy / Willow) |
 | Available range | 1,065–5,414 SF at Park Place |
 | Colony | **10–12 cats** on floor + **2** quarantine |
 | Cat care / month | **~$2,100–2,400** café-paid |
@@ -20,20 +21,20 @@
 | Coffee partner | **Caffe Vita** (Seattle-roasted only) |
 | Y1 revenue (ramp) | ~$433K |
 | Y2 revenue (base) | ~$532K |
-| Y2 EBITDA (base) | ~$85K (~16%) — re-check after rent quote |
+| Y2 EBITDA (base) | ~$85K (~16%) — **re-check after Park Place rent quote** |
 | Break-even | ~month 14 |
 
 ---
 
 ## Investment thesis
 
-Tampa has ~28M Hillsborough visitors ($6B direct spend / $9.5B impact in 2025), metro median HH income ~$79K, and limited cat-café supply (peer: Cats & Caffeine on Henderson Blvd). Cat ownership is rising nationally (39% of U.S. households). Whisker Watch is a reservation-led rescue lounge + specialty café using a Florida DBPR-compliant dual-zone layout.
+Tampa Bay has strong visitor and pet-spend demand, metro median HH income ~$79K, and limited cat-café supply (peer: Cats & Caffeine on Henderson Blvd). Cat ownership is rising nationally (39% of U.S. households). Whisker Watch is a reservation-led rescue lounge + specialty café using a Florida DBPR-compliant dual-zone layout.
 
-**Coffee:** <strong>Caffe Vita</strong> only — Seattle-roasted beans. Founder grew up there and the coffee is the point of staying true to those roots. Vita has nationwide wholesale hubs (Seattle · Brooklyn · Phoenix), so Tampa supply + barista support is realistic. Differentiates the bar from generic Tampa espresso while keeping the menu lean (espresso + packaged / off-site bites).
+**Coffee:** **Caffe Vita** only — Seattle-roasted beans. Founder grew up there and the coffee is the point of staying true to those roots. Vita has nationwide wholesale hubs (Seattle · Brooklyn · Phoenix), so Bay Area supply + barista support is realistic. Differentiates the bar from generic espresso while keeping the menu lean (espresso + packaged / off-site bites).
 
-**Site path:** First-choice **Jade / North Hyde Park** — ACRE cannot accommodate (Aug 4, 2026). Active diligence on **Park Place, Seminole** with Sammy Gabbai + Willow Ferrelli (suite fit, rent, animal policy). Do not pitch Jade SF/address as locked.
+**Site path:** First-choice **Jade / North Hyde Park** — ACRE cannot accommodate this use (Aug 4, 2026). Active diligence on **Park Place, Seminole** (high-traffic Park Blvd & Starkey corridor; strong nearby incomes) with **Sammy Gabbai** + **Willow Ferrelli**. Do **not** pitch Jade SF/address as locked. Keep eyes open for a stronger lifestyle site if Park Place fails animal policy, patio, or rent.
 
-**Community partnership:** Weekly **Wednesday Girls Bike Nights** with **Girlz and Gears** — ride meet → patio hang at Whisker Watch → optional lounge add-on. Bikes stay outside; cats stay in the lounge.
+**Community partnership:** Weekly **Wednesday Girls Bike Nights** with **Girlz and Gears** — ride meet → patio hang → optional lounge add-on. Bikes stay outside; cats stay in the lounge. Confirm route fit once suite is locked (Pinellas vs Tampa-centric riders).
 
 ---
 
@@ -43,7 +44,7 @@ Tampa has ~28M Hillsborough visitors ($6B direct spend / $9.5B impact in 2025), 
 |---|---|
 | Cadence | Every Wednesday evening |
 | Format | Group ride → patio hang → optional lounge |
-| Primary space | 895 SF human patio + café bar |
+| Primary space | Human patio / outdoor hang + café bar (confirm outdoor rights at suite) |
 | Bikes | Patio / street only — never indoors |
 | Why it matters | Midweek traffic, women/girls community, social content, memberships |
 
@@ -51,33 +52,46 @@ Full program detail: see `04-girlz-and-gears-partnership.md`.
 
 ---
 
-## Favorite building: Jade at North Hyde Park
+## Active site: Park Place, Seminole
 
-### Specs
-- Building: Jade (2022 mixed-use)
-- Suite: Ground-floor Suite 2 (listed available)
-- Asking rent: **Not published — quote required** (expect above Seminole Heights $27/SF street comps)
-- Zoning / product: restaurant-ready ground floor + outdoor seating
+### Specs (listing)
+- Address: **7562–7600 Starkey Rd, Seminole, FL 33777**
+- Product: Newly renovated retail center · Circle K open · pylon signage
+- Traffic: ~**80,000** cars/day (Park Blvd ~53k · Starkey ~28.5k)
+- Demographics (listing): ~$126k avg HH income within 1 mile · ~251k people within 5 miles
+- Suites: **1,065 · 1,592 · 2,188 · 2,268 / 3,146 (divisible) · 5,414 SF**
+- Asking rent: **Not published — quote required**
 
 ### Leasing contacts (ACRE Commercial)
-- **Sandi Bargfrede**, Managing Partner — 407-491-8149 — sandi@acrefl.com  
-- **Jamie Eads**, Leasing Manager — 407-690-0796 — jamie@acrefl.com  
+- **Sammy Gabbai**, Transaction Associate — sammy@acrefl.com · 813-461-6106  
+- **Willow Ferrelli**, Senior Vice President — willow@acrefl.com · 813-939-7732  
+- **Sandi Bargfrede**, Managing Partner — sandi@acrefl.com · 407-491-8149  
 
 ### Links
-- Listing: https://www.acrefl.com/jade-at-north-hyde-park  
-- Maps: https://www.google.com/maps/place/608+N+Willow+Ave,+Tampa,+FL+33606  
-- 3D concept: see `3d-model/` in this folder  
+- Listing: https://www.acrefl.com/park-place  
+- Maps: search 7562 Starkey Rd, Seminole, FL 33777  
+- Live café site: https://rhibee003.github.io/whiskerWatchCafe/
 
-### Why Jade
-- Corner + patio activation  
-- Captive residents upstairs + student / downtown daytime  
-- Restaurant product type (TI path)  
-- Brand-forward for social / experiential demand  
+### Why consider Park Place
+- High visibility / drive-to demand  
+- Strong nearby household incomes  
+- Suite sizes in dual-zone range (prefer ~1.5–2.5k SF)  
+- Possible cleaner animal-use path than “under apartments” (confirm in writing)  
+- Pinellas thinner on cat-café competition than South Tampa  
+
+### Brand / ops caveats
+- Strip-retail corridor, not Hyde Park walkable lifestyle  
+- Outdoor / patio rights must be confirmed (bike night + hang depend on it)  
+- Girlz and Gears midweek distance may need route redesign  
 
 ### Gate before LOI
-- Written **landlord consent** for live-animal lounge under apartments  
-- Soft **rent + NNN/CAM** quote from ACRE  
+- Written **landlord consent** for live-animal sealed lounge  
+- Soft **rent + NNN/CAM** quote + recommended suite  
+- Outdoor seating / patio confirmation  
 - **DBPR plan review** on dual-zone layout  
+
+### Closed path (archive)
+**Jade · 608 N Willow Ave, Suite 2** — ACRE (Sandi): cannot accommodate. Do not pitch as available. Old 3D study kept under `pitch/jade-3d/` as concept archive only.
 
 ---
 
@@ -85,12 +99,12 @@ Full program detail: see `04-girlz-and-gears-partnership.md`.
 
 Florida Food Code does **not** allow cats in food prep. Model (same idea as Cats & Caffeine Tampa):
 
-| Zone | Rule | Jade application |
+| Zone | Rule | Application |
 |---|---|---|
 | Café bar | No animals | Street-front espresso / POS · **Caffe Vita** (Seattle) only |
 | Cat lounge | Separate room | Majority of SF behind glass |
-| BOH | Quarantine / litter | Back suite |
-| Patio | Not free-roam cats | Human overflow only |
+| BOH | Quarantine / litter | Back of suite |
+| Patio / outdoor | Not free-roam cats | Human overflow only (if suite has it) |
 | Approvals | Required | Landlord animal consent + DBPR plan review |
 
 Menu path of least resistance: **Caffe Vita espresso (Seattle) + lattes / frappes + healthy sweet snacks (e.g. no-sugar banana PB protein cookie) + packaged / off-site bites**.
@@ -137,9 +151,9 @@ Benchmarked to Tampa specialty coffee + Starbucks street prices, and peer lounge
 
 **Target: 10–12 cats on the floor + 2 quarantine slots (14 max on site).**
 
-| Rule of thumb | Jade application |
+| Rule of thumb | Application |
 |---|---|
-| ~100 SF lounge / cat | ~1,000–1,100 SF lounge → 10–11 cats |
+| ~100 SF lounge / cat | ~1,000–1,200 SF lounge → 10–12 cats |
 | Industry norm | Most U.S. cafés: 8–15 |
 | Guest : cat | 12–15 guests/session |
 | Peer (Tampa) | Cats & Caffeine ~10–15 |
@@ -171,7 +185,7 @@ Benchmarked to Tampa specialty coffee + Starbucks street prices, and peer lounge
 
 **Y2 revenue mix (of ~$532K):** Lounge admission ~52% · F&B ~34% · Events/memberships ~10% · Merch/adoptions ~4%. Planning tickets: **$22** lounge + **~$8–12** F&B attach per guest.
 
-Re-run margins after Jade rent quote (South Tampa / urban mixed-use often higher $/SF than Seminole Heights).
+Re-run margins after **Park Place rent + NNN** quote (suburban retail $/SF may differ from Hyde Park mixed-use).
 
 ---
 
@@ -192,20 +206,21 @@ Re-run margins after Jade rent quote (South Tampa / urban mixed-use often higher
 
 ---
 
-## Key risks (Jade)
+## Key risks (current site path)
 
 | Risk | Mitigation |
 |---|---|
-| Landlord rejects animals under apartments | Written consent before LOI |
-| Rent higher than street comps | Stress-test $40–45/SF + NNN |
-| 1,666 SF tighter than 2,000+ ideal | Lean menu; patio for humans; capacity caps |
-| Closer to existing Tampa café trade area | UT/downtown mix; premium brand |
+| Landlord rejects live animals | Written consent before LOI (ask Sammy/Willow first) |
+| Rent / NNN kills model | Stress-test quote; walk if occupancy too high |
+| No real patio / outdoor | Redesign bike-night hang or keep searching |
+| Strip-retail brand mismatch | Design + Vita + rescue story carry; or continue site search |
+| Suite too small / too large | Prefer 1.5–2.5k SF; avoid 5.4k unless subdivided |
 
 ---
 
 ## The ask
 
-Raise **$280,000** to open Whisker Watch at **Jade at North Hyde Park** — founder’s favorite site. Capital funds health-code-compliant dual-zone finish-out, runway, colony setup, and launch.
+Raise **$280,000** to open Whisker Watch Café in the **Tampa Bay area** — dual-zone rescue lounge + **Caffe Vita** specialty bar. Capital funds health-code-compliant finish-out, runway, colony setup, and launch. **Active site diligence: Park Place, Seminole** (Jade path closed).
 
 **Illustrative raise structure:** minority equity (~20–35%); founder remains Managing Member and majority owner. See `02-teaser-and-founder-terms.md`.
 

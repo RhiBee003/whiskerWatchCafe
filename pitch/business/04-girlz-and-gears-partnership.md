@@ -1,14 +1,17 @@
 # Whisker Watch × Girlz and Gears
 ## Wednesday Girls Bike Night partnership
 
-**Confidential · Community program plan**
+**Confidential · Community program plan**  
+**Last updated:** August 4, 2026 — site path moved off Jade; confirm meet point once suite locks
 
 ---
 
 ## Concept
-Every **Wednesday evening**, Whisker Watch Café partners with **Girlz and Gears** for **Girls Bike Night** — a welcoming ride + hang for girls and women, ending at Whisker Watch’s patio (Jade / North Hyde Park).
+Every **Wednesday evening**, Whisker Watch Café partners with **Girlz and Gears** for **Girls Bike Night** — a welcoming ride + hang for girls and women, ending at Whisker Watch’s patio / outdoor hang.
 
 **Brand fit:** community, confidence, women/girls-first spaces — bikes outside, cats inside.
+
+**Site note:** Jade / North Hyde Park is closed. Active diligence is **Park Place, Seminole**. Do not market a specific meet address until outdoor rights + suite are confirmed. If Pinellas is too far for the current rider base, redesign the route or keep searching a Tampa-side site.
 
 ---
 
@@ -16,7 +19,7 @@ Every **Wednesday evening**, Whisker Watch Café partners with **Girlz and Gears
 
 | Time (example) | What happens |
 |---|---|
-| 6:00 PM | Meet at Jade patio / agreed start point |
+| 6:00 PM | Meet at café patio / agreed start point |
 | 6:15–7:15 PM | Group ride (Girlz and Gears leads route & vibe) |
 | 7:15–8:30 PM | Patio hang at Whisker Watch — drinks, snacks, merch |
 | Optional | Reserved lounge block for riders who want cat time (8+ age policy) |
@@ -26,12 +29,12 @@ Adjust times seasonally (Florida heat / daylight).
 ---
 
 ## Space rules (non-negotiable)
-- **Bikes stay outside** — patio racks / street / garage edge only  
+- **Bikes stay outside** — patio racks / street / lot edge only  
 - **No bikes in the café bar or cat lounge** (health code + cat stress)  
 - Lounge visits = normal reservation rules; wipe hands before/after  
-- Respect apartment quiet hours; keep patio volume friendly  
+- Keep patio volume friendly for neighbors  
 
-Jade’s **895 SF patio** is the home base — this is why the patio matters for the partnership.
+**Patio / outdoor seating is a partnership dependency** — confirm at Park Place (or next site) before locking public Wednesdays.
 
 ---
 
@@ -75,9 +78,10 @@ Put the split in a simple **MOU** (not exclusive forever — start with 90-day p
 
 ## Next steps
 - [ ] Align on start time, ride length, skill level (beginner-friendly default)  
-- [ ] Confirm patio bike-parking layout at Jade  
+- [ ] Confirm patio / bike-parking layout at **chosen suite**  
 - [ ] Draft 1-page MOU (90-day pilot)  
 - [ ] Add Wed Bike Night to launch calendar & pitch  
+- [ ] Soften outreach copy until address is public  
 
 ---
 
