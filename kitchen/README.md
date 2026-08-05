@@ -14,9 +14,10 @@ Nutrition is **estimated** — verify brands before guest labels.
 | 4 | Chocolate Protein Croissant | $5.50 | ~180–210 kcal · 9–11 g protein | [04-chocolate-protein-croissants.md](04-chocolate-protein-croissants.md) |
 | 5 | Asiago Bagel | $5.25 | ~190–220 kcal · 11–13 g protein | [05-asiago-bagels.md](05-asiago-bagels.md) |
 | 6 | Seeded rosemary oat crackers | $4.50 · on Cheese & fruit $15 | ~35–40 kcal each · 0 added sugar | [06-seeded-oat-crackers.md](06-seeded-oat-crackers.md) |
+| 7 | Garden Pizza Pocket | $6.50 | ~220–260 kcal · 12–15 g protein | [07-pizza-pockets.md](07-pizza-pockets.md) |
 
 Also on public menu: **Cheese & fruit board** for two · $15 (includes house crackers).
 
 **Café ops**
 - Bar side only (humans) — DBPR dual-zone.
-- Lean daily bake: **#2 cookie + #3 muffin + #5 bagel + #6 crackers**. Croissants when you have rise time.
+- Lean daily bake: **#2 cookie + #3 muffin + #5 bagel + #6 crackers**; pizza pockets when you want a savory lead. Croissants when you have rise time.

@@ -135,6 +135,7 @@ Benchmarked to Tampa specialty coffee + Starbucks street prices, and peer lounge
 | Blueberry Greek Yogurt Muffin | $5.50 | ~115–125 kcal · ~5 g protein |
 | Chocolate Protein Croissant | $5.50 | ~180–210 kcal · 9–11 g protein |
 | Asiago Bagel | $5.25 | ~190–220 kcal · 11–13 g protein |
+| Garden Pizza Pocket | $6.50 | ~220–260 kcal · 12–15 g protein |
 | Cheese & fruit board (for two, house crackers) | $15 | patio |
 | Seeded oat crackers (à la carte) | $4.50 | ~35–40 kcal each · rosemary · olive oil |
 
