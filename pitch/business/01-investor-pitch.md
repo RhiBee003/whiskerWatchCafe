@@ -136,7 +136,8 @@ Benchmarked to Tampa specialty coffee + Starbucks street prices, and peer lounge
 | Blueberry Greek Yogurt Muffin | $5.50 | ~115–125 kcal · ~5 g protein |
 | Chocolate Protein Croissant | $5.50 | ~180–210 kcal · 9–11 g protein |
 | Asiago Bagel | $5.25 | ~190–220 kcal · 11–13 g protein |
-| Cheese & fruit (for two) | $15 | patio |
+| Cheese & fruit board (for two, house crackers) | $15 | patio |
+| Seeded oat crackers (à la carte) | $4.50 | ~35–40 kcal each · rosemary · olive oil |
 
 **Attach assumption:** ~$8–12 F&B per lounge guest is the planning range (drink + snack). Public menu + recipes: https://rhibee003.github.io/whiskerWatchCafe/ · kitchen.html
 
