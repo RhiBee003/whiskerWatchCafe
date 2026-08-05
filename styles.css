@@ -640,9 +640,15 @@ a {
   backdrop-filter: blur(10px);
 }
 
+.kitchen-page main {
+  text-align: center;
+}
+
 .kitchen-hero {
   padding: calc(5.5rem + env(safe-area-inset-top)) var(--page-gutter) 2rem;
   max-width: 42rem;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .kitchen-hero h1 {
@@ -655,14 +661,16 @@ a {
 }
 
 .kitchen-hero p {
-  margin: 0 0 1.25rem;
+  margin: 0 auto 1.25rem;
   color: var(--muted);
   font-size: 1.05rem;
+  max-width: 36rem;
 }
 
 .kitchen-toc {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 0.55rem 1rem;
   padding: 0 var(--page-gutter) 2rem;
   border-bottom: 1px solid var(--line);
@@ -687,6 +695,7 @@ a {
   max-width: 52rem;
   margin: 0 auto;
   border-bottom: 1px solid var(--line);
+  text-align: center;
 }
 
 .recipe-tag {
@@ -707,13 +716,13 @@ a {
 }
 
 .recipe-lead {
-  margin: 0 0 0.65rem;
+  margin: 0 auto 0.65rem;
   color: var(--muted);
   max-width: 38rem;
 }
 
 .recipe-macros {
-  margin: 0 0 1.5rem;
+  margin: 0 auto 1.5rem;
   font-family: var(--font-display);
   font-weight: 700;
   font-size: 0.98rem;
@@ -723,6 +732,7 @@ a {
 .recipe-grid {
   display: grid;
   gap: 1.75rem;
+  text-align: center;
 }
 
 @media (min-width: 720px) {
@@ -743,9 +753,11 @@ a {
 
 .recipe ul,
 .recipe ol {
-  margin: 0 0 1.25rem;
-  padding-left: 1.15rem;
+  margin: 0 auto 1.25rem;
+  padding: 0;
+  list-style-position: inside;
   color: var(--ink);
+  max-width: 28rem;
 }
 
 .recipe li {
@@ -761,13 +773,16 @@ a {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr));
   gap: 0.65rem 1rem;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 32rem;
+  justify-items: center;
 }
 
 .recipe-nutrition dl > div,
 .recipe-nutrition-inline > div {
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 0.1rem;
 }
 
@@ -789,9 +804,10 @@ a {
 }
 
 .recipe-alt {
-  margin: 1.25rem 0 0;
+  margin: 1.25rem auto 0;
   font-size: 0.9rem;
   color: var(--muted);
+  max-width: 36rem;
 }
 
 .kitchen-fine {
