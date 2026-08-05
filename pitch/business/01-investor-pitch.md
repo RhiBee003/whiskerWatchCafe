@@ -128,16 +128,17 @@ Benchmarked to Tampa specialty coffee + Starbucks street prices, and peer lounge
 | Cold brew | $5.25 |
 | Chamomile | $4.25 |
 
-### Café bar — bites (healthy sweets + packaged)
-| Item | Price |
-|---|---:|
-| Banana PB Protein Cookie (no sugar) | $5.00 |
-| Strawberry jar | $6.75 |
-| Healthy Chocolate Croissant | $5.50 |
-| Banana bread | $4.25 |
-| Cheese & fruit (for two) | $15 |
+### Café bar — bites (healthy sweets + savory)
+| Item | Price | Per serving (est.) |
+|---|---:|---|
+| Banana PB Protein Cookie | $5.00 | ~100 kcal · ~5 g protein · 0 added sugar |
+| Banana PB Cookie · chocolate chip | $5.50 | ~175 kcal · ~5.5 g protein |
+| Blueberry Greek Yogurt Muffin | $5.50 | ~115–125 kcal · ~5 g protein |
+| Chocolate Protein Croissant | $5.50 | ~180–210 kcal · 9–11 g protein |
+| Asiago Bagel | $5.25 | ~190–220 kcal · 11–13 g protein |
+| Cheese & fruit (for two) | $15 | patio |
 
-**Attach assumption:** ~$8–12 F&B per lounge guest is the planning range (drink + snack). Menu lives on the marketing site and should stay in sync with this table.
+**Attach assumption:** ~$8–12 F&B per lounge guest is the planning range (drink + snack). Public menu + recipes: https://rhibee003.github.io/whiskerWatchCafe/ · kitchen.html
 
 ---
 
