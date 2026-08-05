@@ -33,6 +33,20 @@ Scaled from per-cookie notes in the shared album.
 5. Bake **12–16 minutes** (or **14–17** if dough was wetter) until edges set.  
 6. Cool on pan **10–15 minutes**.
 
+### Lighter / less dense (recommended café tweak)
+
+Same idea as the oat batch — this dough is dense by default.
+
+1. **More lift:** **¾–1 tsp baking powder** + **¼ tsp baking soda**.  
+2. **Less dry weight:** drop flour to **1 cup** (skip the +2 tbsp) **or** PB Fit to **⅓ cup**.  
+3. **Looser wet mix:** **3 tbsp almond milk** instead of 2; or use **2% Greek yogurt** instead of nonfat.  
+4. **Egg loft (optional):** whisk egg lightly before adding; don’t beat hard after flour goes in.  
+5. **Shape thin:** flatten to **⅓ inch**.  
+6. **Bake:** **375°F · 10–13 min** — pull when edges set and centers still soft.  
+7. **Optional:** **1 tbsp melted butter** for bakery-soft crumb.
+
+Café note: lighter cookies may land closer to **~95–110 kcal** still; protein dips slightly if you cut PB Fit.
+
 ---
 
 ## Health per cookie (est. · 12)
