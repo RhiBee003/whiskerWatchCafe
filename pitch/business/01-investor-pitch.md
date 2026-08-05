@@ -131,8 +131,7 @@ Benchmarked to Tampa specialty coffee + Starbucks street prices, and peer lounge
 ### Café bar — bites (healthy sweets + savory)
 | Item | Price | Per serving (est.) |
 |---|---:|---|
-| Banana PB Protein Cookie | $5.00 | ~95–110 kcal · ~5 g protein · soft/light bake · 0 added sugar |
-| Banana PB Cookie · chocolate chip | $5.50 | ~170–180 kcal · ~5.5 g protein |
+| Banana PB Protein Cookie (cocoa drizzle, no chips) | $5.00 | ~100–115 kcal · ~5 g protein · 0 added sugar |
 | Blueberry Greek Yogurt Muffin | $5.50 | ~115–125 kcal · ~5 g protein |
 | Chocolate Protein Croissant | $5.50 | ~180–210 kcal · 9–11 g protein |
 | Asiago Bagel | $5.25 | ~190–220 kcal · 11–13 g protein |

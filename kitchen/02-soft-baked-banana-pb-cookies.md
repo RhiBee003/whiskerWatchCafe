@@ -3,10 +3,11 @@
 **Café name idea:** Soft-Baked Banana PB Greek Yogurt Cookies · **Banana PB Protein Cookie** ($5)  
 **Yield:** 12 cookies  
 **Bake:** **375°F · 10–13 min**  
-**Profile:** Banana-forward · soft / less dense · PB Fit as support, not the lead  
+**Finish:** healthy cocoa drizzle (no chocolate chips · no added sugar)  
+**Profile:** Banana-forward · soft / less dense · cocoa finish without candy sugar  
 **Related oat batch:** [01-banana-pb-cookies.md](01-banana-pb-cookies.md)
 
-Café **default / signature** — light texture + louder banana.
+Café **default / signature** — light texture + louder banana + cocoa drizzle.
 
 ---
 
@@ -26,6 +27,17 @@ Café **default / signature** — light texture + louder banana.
 - **Optional but strong:** ¼–½ tsp banana extract  
 - **Optional:** 1 tbsp melted butter  
 
+### Healthy cocoa drizzle (for 12 cookies · 0 added sugar)
+
+- 2 tbsp unsweetened cocoa powder  
+- 1 tbsp PB Fit  
+- 1–2 tbsp unsweetened almond milk *(thin to drizzle)*  
+- 1 tsp mashed roasted banana *(optional · natural sweetness)*  
+- Tiny pinch of salt  
+- Optional: ¼ tsp vanilla  
+
+Whisk until smooth and glossy. Should ribbon off a spoon — add milk by the teaspoon if thick.
+
 ---
 
 ## Directions
@@ -36,34 +48,21 @@ Café **default / signature** — light texture + louder banana.
 4. Stir in PB Fit, flour, baking powder, baking soda, cinnamon, and salt **just until combined**.  
 5. Scoop **12**; flatten to **⅓ inch**.  
 6. Bake **10–13 minutes** until edges set, centers soft.  
-7. Cool on pan **10–15 minutes**.
+7. Cool on pan **10–15 minutes**.  
+8. Whisk cocoa drizzle; drizzle over cooled cookies (zigzag). Let set **5–10 minutes**.
 
-**Banana louder / PB quieter:** roast is non-negotiable for café batches; keep PB Fit at ¼ cup + 1 tbsp; don’t bump cinnamon or vanilla.
+**No chocolate chips** — chips were ~8–9 g added sugar per cookie. Cocoa drizzle keeps the chocolate note without that load.
 
 ---
 
-## Health per cookie (est. · 12)
+## Health per cookie (est. · 12 · with drizzle)
 
 | Nutrient | Approx. |
 |----------|---------|
-| Calories | **~95–110 kcal** |
-| Protein | **~4.5–5 g** |
-| Fiber | **~2 g** |
+| Calories | **~100–115 kcal** |
+| Protein | **~5 g** |
+| Fiber | **~2–2.5 g** |
 | Added sugar | **0 g** (if brands have none) |
 | Sodium | **~80–110 mg** |
 
-**How to market:** roasted banana · PB Fit · Greek yogurt · soft bake · ~5 g protein · no added sugar · ~100 calories.
-
----
-
-## Variation · chocolate chip ($5.50)
-
-Same banana-forward dough + **⅓–½ cup mini chocolate chips**.
-
-### Health per cookie (est. with chips)
-
-| Nutrient | Approx. |
-|----------|---------|
-| Calories | **~170–180 kcal** |
-| Protein | **~5–5.5 g** |
-| Added sugar | **~8–9 g** (from chips) |
+**How to market:** roasted banana · PB Fit · Greek yogurt · healthy cocoa drizzle · soft bake · ~5 g protein · no added sugar · ~100 calories.
