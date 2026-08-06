@@ -32,25 +32,44 @@
     link.addEventListener("click", () => setMenuOpen(false));
   });
 
-  document.querySelectorAll(".section, .reserve-panel, .community-panel, .cats-band").forEach((el) => {
+  document.querySelectorAll(".section, .reserve-panel, .community-panel").forEach((el) => {
     el.classList.add("reveal");
   });
+
+  const showReveal = (el) => el.classList.add("is-visible");
 
   if ("IntersectionObserver" in window) {
     const io = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add("is-visible");
+          if (entry.isIntersecting || entry.intersectionRatio > 0) {
+            showReveal(entry.target);
             io.unobserve(entry.target);
           }
         });
       },
-      { threshold: 0.12, rootMargin: "0px 0px -8% 0px" }
+      { threshold: [0, 0.01, 0.08], rootMargin: "120px 0px 120px 0px" }
     );
     document.querySelectorAll(".reveal").forEach((el) => io.observe(el));
+
+    // Mobile Safari / overflow quirks: never leave sections invisible
+    const revealFallback = () => {
+      document.querySelectorAll(".reveal:not(.is-visible)").forEach((el) => {
+        const rect = el.getBoundingClientRect();
+        const vh = window.innerHeight || 0;
+        if (rect.top < vh * 1.15 && rect.bottom > -80) showReveal(el);
+      });
+    };
+    window.addEventListener("scroll", revealFallback, { passive: true });
+    window.addEventListener("resize", revealFallback, { passive: true });
+    window.addEventListener("load", revealFallback);
+    requestAnimationFrame(revealFallback);
+    setTimeout(revealFallback, 400);
+    setTimeout(() => {
+      document.querySelectorAll(".reveal:not(.is-visible)").forEach(showReveal);
+    }, 2500);
   } else {
-    document.querySelectorAll(".reveal").forEach((el) => el.classList.add("is-visible"));
+    document.querySelectorAll(".reveal").forEach(showReveal);
   }
 
   form?.addEventListener("submit", (event) => {
