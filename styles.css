@@ -1056,8 +1056,8 @@ a {
 
 /* —— Cats —— */
 .section.cats {
-  padding-top: clamp(2.25rem, 5vw, 4rem);
-  padding-bottom: clamp(2.25rem, 5vw, 4rem);
+  padding-top: clamp(1.75rem, 4vw, 3rem);
+  padding-bottom: clamp(1.75rem, 4vw, 3rem);
 }
 
 .cats-band {
@@ -1148,6 +1148,10 @@ a {
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 0.65rem;
   }
+}
+
+.cat-tile {
+  min-width: 0;
 }
 
 .cat-tile figure {
