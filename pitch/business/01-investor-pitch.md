@@ -139,7 +139,7 @@ Benchmarked to Tampa specialty coffee + Starbucks street prices, and peer lounge
 | Cheese & fruit board (for two, house crackers) | $15 | patio |
 | Seeded oat crackers (à la carte) | $4.50 | ~35–40 kcal each · rosemary · olive oil |
 
-**Attach assumption:** ~$8–12 F&B per lounge guest is the planning range (drink + snack). Public menu + recipes: https://rhibee003.github.io/whiskerWatchCafe/ · kitchen.html
+**Attach assumption:** ~$8–12 F&B per lounge guest is the planning range (drink + snack). Public menu: https://rhibee003.github.io/whiskerWatchCafe/
 
 ---
 
